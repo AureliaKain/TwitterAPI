@@ -1,2 +1,6 @@
 # Twitter-API-
-Social media marketing - Python 
+1st Python project (October 2016)
+Social media marketing 
+Get and print data from twitter
+Store them in Sqlite
+Perform sentiment analysis
